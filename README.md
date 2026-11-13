@@ -64,7 +64,7 @@ The dashboard's own player does the decoding, in software, while the dashboard i
 - **Size:** 1280x720 at 30 fps is the best trade. The dashboard is drawn at 720p, so 1080p gains nothing
   and costs speed; 1080p at 60 fps will stutter.
 - **Bitrate:** 4 to 6 Mbps is plenty.
-- **Shape:** the picture is stretched to fill the screen, so use widescreen (16:9) video.
+- **Shape:** the picture is stretched to fill the screen, so you can use 720p videos and they will still show as 1080p videos its recommended.
 - Try a new video on its own before relying on it. A file the player can't handle can freeze the console;
   pull the stick and restart if that happens.
 
