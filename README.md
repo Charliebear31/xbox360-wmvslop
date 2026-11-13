@@ -9,7 +9,7 @@ The same video with sound: [media/demo.mp4](media/demo.mp4)
 
 - Plays one `.wmv` file, looping, behind the tiles on every dashboard page.
 - Starts by itself when the console powers on.
-- Streams the video from the USB stick or hard drive, so the file can be large.
+- Streams the video from the USB stick or hard drive.
 - Works over custom themes, and comes back by itself after a sign-in to Xbox Live.
 - No per-version patches: it finds what it needs in the running dashboard.
 
